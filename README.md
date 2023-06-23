@@ -9,7 +9,11 @@ The Library Uses Retrofit for getting the data from https://www.weatherapi.com/a
 |---|---|
 |<img src="https://github.com/RonShmaya/Attributes/blob/main/weather_main.jpg" height="650" width="300" />|<img src="https://github.com/RonShmaya/Attributes/blob/main/weather_result.jpg" height="650" width="300"/>|
 
+## Video
+<img src="https://github.com/RonShmaya/Attributes/blob/main/weather.mp4" alt="animated"/>
 
+
+<br/>
 ## Setup
 Step 1. Add it to your root build.gradle at the end of repositories:
 ```
