@@ -1,8 +1,13 @@
 # WeatherLibrary
 [![](https://jitpack.io/v/RonShmaya/WeatherLibrary.svg)](https://jitpack.io/#RonShmaya/WeatherLibrary)
 
-Library for getting all weather's properties in an easy way by city name.
+Library for getting all weather properties in an easy way by city name.
 The Library Uses Retrofit for getting the data from https://www.weatherapi.com/api
+
+## Example
+|Select|Result|Error page|
+|---|---|---|
+|<img src="[attri/game.png](https://github.com/RonShmaya/Attributes/blob/main/weather_main.jpg)" height="400" width="1000" />|<img src="[[games_screens/waiting.png](https://github.com/RonShmaya/Attributes/blob/main/weather_main.jpg)](https://github.com/RonShmaya/Attributes/blob/main/weather_result.jpg)" height="400" width="1000"/>
 
 
 ## Setup
