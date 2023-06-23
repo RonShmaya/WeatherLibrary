@@ -5,9 +5,9 @@ Library for getting all weather properties in an easy way by city name.
 The Library Uses Retrofit for getting the data from https://www.weatherapi.com/api
 
 ## Example
-|Select|Result|Error page|
-|---|---|---|
-|<img src="[attri/game.png](https://github.com/RonShmaya/Attributes/blob/main/weather_main.jpg)" height="400" width="1000" />|<img src="[[games_screens/waiting.png](https://github.com/RonShmaya/Attributes/blob/main/weather_main.jpg)](https://github.com/RonShmaya/Attributes/blob/main/weather_result.jpg)" height="400" width="1000"/>
+|Select|Result|
+|---|---|
+|<img src="https://github.com/RonShmaya/Attributes/blob/main/weather_main.jpg" height="300" width="600" />|<img src="https://github.com/RonShmaya/Attributes/blob/main/weather_result.jpg" height="300" width="600"/>|
 
 
 ## Setup
