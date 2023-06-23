@@ -7,7 +7,7 @@ The Library Uses Retrofit for getting the data from https://www.weatherapi.com/a
 ## Example
 |Select|Result|
 |---|---|
-|<img src="https://github.com/RonShmaya/Attributes/blob/main/weather_main.jpg" height="700" width="400" />|<img src="https://github.com/RonShmaya/Attributes/blob/main/weather_result.jpg" height="700" width="400"/>|
+|<img src="https://github.com/RonShmaya/Attributes/blob/main/weather_main.jpg" height="700" width="300" />|<img src="https://github.com/RonShmaya/Attributes/blob/main/weather_result.jpg" height="700" width="300"/>|
 
 
 ## Setup
