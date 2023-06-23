@@ -10,7 +10,7 @@ The Library Uses Retrofit for getting the data from https://www.weatherapi.com/a
 |<img src="https://github.com/RonShmaya/Attributes/blob/main/weather_main.jpg" height="650" width="300" />|<img src="https://github.com/RonShmaya/Attributes/blob/main/weather_result.jpg" height="650" width="300"/>|
 
 ## Video
-<img src="https://github.com/RonShmaya/Attributes/blob/main/weather.mp4" alt="animated"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF1ams0bzVhMmY4cGV1cTVsb3N5Z3FjeTBvc2RrbjBmbG13a3FjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gswS1iTsMQc8tXA2d8/giphy.gif" alt="animated"/>
 
 
 <br/>
