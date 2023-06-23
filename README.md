@@ -13,7 +13,6 @@ The Library Uses Retrofit for getting the data from https://www.weatherapi.com/a
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF1ams0bzVhMmY4cGV1cTVsb3N5Z3FjeTBvc2RrbjBmbG13a3FjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gswS1iTsMQc8tXA2d8/giphy.gif" alt="animated"/>
 
 
-<br/>
 ## Setup
 Step 1. Add it to your root build.gradle at the end of repositories:
 ```
